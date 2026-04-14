@@ -1,4 +1,4 @@
-# JAX / Flax / Optax Credit Risk Classifier
+# Jax-credit-risk-classifier
 
 A credit risk classification project built with JAX, Flax, and Optax, demonstrating how tabular banking-style prediction workflows can be implemented using a functional training loop.
 
